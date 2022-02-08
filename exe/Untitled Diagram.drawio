@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T09:05:28.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="2RFLEllzbYdGoYl3YZPq" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T09:55:11.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="A5myVqWXfdIjTvtP5hOf" version="16.5.3" type="github">
   <diagram id="bixSDpGMKZh9JCM2c2_f" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,14 +48,20 @@
         <mxCell id="MydzxWOjrlcetfUnZiZt-13" value="exercise_store&lt;br&gt;习题库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MydzxWOjrlcetfUnZiZt-15" value="assignment&lt;br&gt;作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="MydzxWOjrlcetfUnZiZt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MydzxWOjrlcetfUnZiZt-15" target="MydzxWOjrlcetfUnZiZt-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MydzxWOjrlcetfUnZiZt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MydzxWOjrlcetfUnZiZt-16" target="MydzxWOjrlcetfUnZiZt-15">
+        <mxCell id="MydzxWOjrlcetfUnZiZt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MydzxWOjrlcetfUnZiZt-15" target="MydzxWOjrlcetfUnZiZt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MydzxWOjrlcetfUnZiZt-15" value="assignment&lt;br&gt;作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MydzxWOjrlcetfUnZiZt-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MydzxWOjrlcetfUnZiZt-16" target="MydzxWOjrlcetfUnZiZt-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MydzxWOjrlcetfUnZiZt-16" value="assignment_question&lt;br&gt;作业题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-390" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MydzxWOjrlcetfUnZiZt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MydzxWOjrlcetfUnZiZt-19" target="MydzxWOjrlcetfUnZiZt-9">
           <mxGeometry relative="1" as="geometry" />
@@ -103,6 +109,23 @@
         </mxCell>
         <mxCell id="MydzxWOjrlcetfUnZiZt-31" value="学习-作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MydzxWOjrlcetfUnZiZt-35" value="question&lt;br&gt;题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MydzxWOjrlcetfUnZiZt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MydzxWOjrlcetfUnZiZt-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MydzxWOjrlcetfUnZiZt-37" value="assignment_task&lt;br&gt;作业安排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MydzxWOjrlcetfUnZiZt-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MydzxWOjrlcetfUnZiZt-41" target="MydzxWOjrlcetfUnZiZt-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MydzxWOjrlcetfUnZiZt-41" value="assignment_task_question&lt;br&gt;作业任务题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="370" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T10:23:53.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="rioziIPqb9Umc1ysKEfd" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T03:03:11.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="QOj2rINvgA1IqYF6SJBQ" version="16.6.1" type="github">
   <diagram id="X77dKztJRfCibkYVblq0" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SrPzOORxQsSpC2F4RSff-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="-630" y="120" as="sourcePoint" />
             <mxPoint x="720" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -66,6 +66,34 @@
         </mxCell>
         <mxCell id="SrPzOORxQsSpC2F4RSff-16" value="能力模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-21" target="SrPzOORxQsSpC2F4RSff-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-21" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-22" target="SrPzOORxQsSpC2F4RSff-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-22" value="能力模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-24" target="SrPzOORxQsSpC2F4RSff-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-24" value="能力列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-26" target="SrPzOORxQsSpC2F4RSff-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-390" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-26" value="计算分数，刷新学员能力等级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

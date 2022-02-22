@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T03:03:11.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="QOj2rINvgA1IqYF6SJBQ" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T03:13:26.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="L5HKZZcLbTze3lnSIPYm" version="16.6.1" type="github">
   <diagram id="X77dKztJRfCibkYVblq0" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,6 +43,9 @@
         <mxCell id="SrPzOORxQsSpC2F4RSff-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.411;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-10" target="SrPzOORxQsSpC2F4RSff-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SrPzOORxQsSpC2F4RSff-10" value="定时任务计算学员能力考核情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,13 +58,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-13" target="SrPzOORxQsSpC2F4RSff-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="520" />
+              <mxPoint x="-120" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SrPzOORxQsSpC2F4RSff-13" value="学员能力考核情况表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="555" width="730" height="60" as="geometry" />
+          <mxGeometry x="-520" y="555" width="1260" height="65" as="geometry" />
         </mxCell>
         <mxCell id="SrPzOORxQsSpC2F4RSff-15" value="qpp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SrPzOORxQsSpC2F4RSff-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-16" target="SrPzOORxQsSpC2F4RSff-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-16" target="SrPzOORxQsSpC2F4RSff-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SrPzOORxQsSpC2F4RSff-16" value="能力模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -82,18 +96,72 @@
         <mxCell id="SrPzOORxQsSpC2F4RSff-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-24" target="SrPzOORxQsSpC2F4RSff-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-24" target="SrPzOORxQsSpC2F4RSff-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-490" y="315" />
+              <mxPoint x="-490" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SrPzOORxQsSpC2F4RSff-24" value="能力列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SrPzOORxQsSpC2F4RSff-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-26" target="SrPzOORxQsSpC2F4RSff-13">
+        <mxCell id="SrPzOORxQsSpC2F4RSff-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-26" target="SrPzOORxQsSpC2F4RSff-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-390" y="585" />
+              <mxPoint x="-400" y="530" />
+              <mxPoint x="-400" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SrPzOORxQsSpC2F4RSff-26" value="计算分数，刷新学员能力等级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-29" target="SrPzOORxQsSpC2F4RSff-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-29" value="报表中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-33" target="SrPzOORxQsSpC2F4RSff-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-33" value="用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-36" target="SrPzOORxQsSpC2F4RSff-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.477;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-36" target="SrPzOORxQsSpC2F4RSff-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-36" value="能力考核方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SrPzOORxQsSpC2F4RSff-50" target="SrPzOORxQsSpC2F4RSff-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-650" y="440" />
+              <mxPoint x="-560" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-50" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="270" width="190" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-42" value="项目地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrPzOORxQsSpC2F4RSff-50">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-43" value="证书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrPzOORxQsSpC2F4RSff-50">
+          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SrPzOORxQsSpC2F4RSff-44" value="期初人员录入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SrPzOORxQsSpC2F4RSff-50">
+          <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

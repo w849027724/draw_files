@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T06:23:36.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="5ctCjqEVuhpUlDyauzTv" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T06:25:02.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="vmhMeBu_GPbPNTramnOv" version="16.6.1" type="github">
   <diagram id="bixSDpGMKZh9JCM2c2_f" name="Page-1">
     <mxGraphModel dx="4730" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -227,8 +227,8 @@
         <mxCell id="RCs7ZY-scC4OHZq9N4nw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RCs7ZY-scC4OHZq9N4nw-27" target="RCs7ZY-scC4OHZq9N4nw-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RCs7ZY-scC4OHZq9N4nw-27" value="operation_map_plan_stage&lt;br&gt;项目地图阶段" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1990" y="220" width="150" height="60" as="geometry" />
+        <mxCell id="RCs7ZY-scC4OHZq9N4nw-27" value="operation_map_content_stage&lt;br&gt;项目地图阶段" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2010" y="220" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LBJv4DRS53q7PDyfE_7B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCs7ZY-scC4OHZq9N4nw-30" target="LBJv4DRS53q7PDyfE_7B-2">
           <mxGeometry relative="1" as="geometry">
@@ -238,8 +238,8 @@
         <mxCell id="LBJv4DRS53q7PDyfE_7B-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RCs7ZY-scC4OHZq9N4nw-30" target="LBJv4DRS53q7PDyfE_7B-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RCs7ZY-scC4OHZq9N4nw-30" value="operation_map_plan_node&lt;br&gt;项目地图阶段节点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1990" y="310" width="150" height="60" as="geometry" />
+        <mxCell id="RCs7ZY-scC4OHZq9N4nw-30" value="operation_map_content_node&lt;br&gt;项目地图阶段节点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-2010" y="310" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RCs7ZY-scC4OHZq9N4nw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RCs7ZY-scC4OHZq9N4nw-34" target="RCs7ZY-scC4OHZq9N4nw-36" edge="1">
           <mxGeometry relative="1" as="geometry" />

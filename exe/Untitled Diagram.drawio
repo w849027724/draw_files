@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T02:08:31.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ZH707ScQvW6Ofn-Mf0g0" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T06:21:26.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="HLR-6y0hUzh_z4Oow1sz" version="16.6.1" type="github">
   <diagram id="bixSDpGMKZh9JCM2c2_f" name="Page-1">
     <mxGraphModel dx="4730" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
         <mxCell id="RCs7ZY-scC4OHZq9N4nw-17" value="user_study_map_status&lt;br&gt;用户学习地图状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="130" width="145" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1GCxXS8aV8vdetoeTW0v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RCs7ZY-scC4OHZq9N4nw-23" target="1GCxXS8aV8vdetoeTW0v-1">
+        <mxCell id="1GCxXS8aV8vdetoeTW0v-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RCs7ZY-scC4OHZq9N4nw-23" target="1GCxXS8aV8vdetoeTW0v-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RCs7ZY-scC4OHZq9N4nw-23" value="学习-胜任力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -248,22 +248,22 @@
         <mxCell id="RCs7ZY-scC4OHZq9N4nw-37" value="user_operation_map_status&lt;br&gt;用户项目地图状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1680" y="570" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1GCxXS8aV8vdetoeTW0v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1GCxXS8aV8vdetoeTW0v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2610" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1GCxXS8aV8vdetoeTW0v-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1GCxXS8aV8vdetoeTW0v-4" target="1GCxXS8aV8vdetoeTW0v-5">
+        <mxCell id="1GCxXS8aV8vdetoeTW0v-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1GCxXS8aV8vdetoeTW0v-4" target="1GCxXS8aV8vdetoeTW0v-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1GCxXS8aV8vdetoeTW0v-4" value="competency_element&lt;br&gt;能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1GCxXS8aV8vdetoeTW0v-4" value="competency_element&lt;br&gt;能力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2610" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1GCxXS8aV8vdetoeTW0v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1GCxXS8aV8vdetoeTW0v-5" target="1GCxXS8aV8vdetoeTW0v-7">
+        <mxCell id="1GCxXS8aV8vdetoeTW0v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1GCxXS8aV8vdetoeTW0v-5" target="1GCxXS8aV8vdetoeTW0v-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1GCxXS8aV8vdetoeTW0v-5" value="competency_claimt&lt;br&gt;能力要求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1GCxXS8aV8vdetoeTW0v-5" value="competency_claimt&lt;br&gt;能力要求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2610" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1GCxXS8aV8vdetoeTW0v-7" value="competency_claimt_info&lt;br&gt;能力要求详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1GCxXS8aV8vdetoeTW0v-7" value="competency_claimt_info&lt;br&gt;能力要求详情" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2620" y="780" width="140" height="60" as="geometry" />
         </mxCell>
       </root>

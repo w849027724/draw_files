@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T06:21:26.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="HLR-6y0hUzh_z4Oow1sz" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T06:23:36.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="5ctCjqEVuhpUlDyauzTv" version="16.6.1" type="github">
   <diagram id="bixSDpGMKZh9JCM2c2_f" name="Page-1">
     <mxGraphModel dx="4730" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,6 +230,14 @@
         <mxCell id="RCs7ZY-scC4OHZq9N4nw-27" value="operation_map_plan_stage&lt;br&gt;项目地图阶段" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1990" y="220" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LBJv4DRS53q7PDyfE_7B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RCs7ZY-scC4OHZq9N4nw-30" target="LBJv4DRS53q7PDyfE_7B-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1915" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBJv4DRS53q7PDyfE_7B-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RCs7ZY-scC4OHZq9N4nw-30" target="LBJv4DRS53q7PDyfE_7B-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RCs7ZY-scC4OHZq9N4nw-30" value="operation_map_plan_node&lt;br&gt;项目地图阶段节点" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1990" y="310" width="150" height="60" as="geometry" />
         </mxCell>
@@ -265,6 +273,12 @@
         </mxCell>
         <mxCell id="1GCxXS8aV8vdetoeTW0v-7" value="competency_claimt_info&lt;br&gt;能力要求详情" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2620" y="780" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LBJv4DRS53q7PDyfE_7B-2" value="user_oms_pass_info&lt;br&gt;阶段状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2200" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LBJv4DRS53q7PDyfE_7B-3" value="user_omn_pass_info&lt;br&gt;任务状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2040" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

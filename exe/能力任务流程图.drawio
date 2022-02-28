@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T02:05:31.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VCa2PaaU_63vq7ii4rUP" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T03:41:45.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="yrlvdH0rVchtwstQ_VZw" version="16.6.4" type="github">
   <diagram id="9e6fux_CzkJda0glSuWo" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,9 +164,6 @@
           <mxGeometry x="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfrnAxkRrdRLA-EYFsuY-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gfrnAxkRrdRLA-EYFsuY-79" source="gfrnAxkRrdRLA-EYFsuY-13" target="gfrnAxkRrdRLA-EYFsuY-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gfrnAxkRrdRLA-EYFsuY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gfrnAxkRrdRLA-EYFsuY-13" target="gfrnAxkRrdRLA-EYFsuY-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gfrnAxkRrdRLA-EYFsuY-86" value="java端&lt;br&gt;1.批量获取项目地图用户信息&lt;br&gt;2.批量获取用户考试任务信息接口&lt;br&gt;3.批量获取用户作业信息接口&lt;br&gt;4.批量获取用户证书接口（有条件的）&lt;br&gt;&lt;br&gt;&lt;br&gt;涉及服务&lt;br&gt;1.胜任力&lt;br&gt;2.项目地图&lt;br&gt;3.证书&lt;br&gt;4.考试&lt;br&gt;5.作业&lt;br&gt;6.用户&lt;br&gt;&lt;br&gt;问题&lt;br&gt;1.存在网络开销 延长任务耗时&lt;br&gt;2.存在多服务嵌套调用 网络不稳定，存在失败情况" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
